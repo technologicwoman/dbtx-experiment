@@ -1,2 +1,2 @@
-# dbtx-experiment
-This is an experiment with DBTX foundational model
+# LLM-experiment
+This is an experiment with a variety of large language foundational models.
